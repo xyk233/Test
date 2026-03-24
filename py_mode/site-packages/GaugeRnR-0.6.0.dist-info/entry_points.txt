@@ -1,0 +1,3 @@
+[console_scripts]
+GaugeRnR = GaugeRnR.__main__:main
+
